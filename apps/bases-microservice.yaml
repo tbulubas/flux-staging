@@ -15,7 +15,7 @@ spec:
   targetNamespace: staging
   values:
     image:
-      tag: 2.9.9
+      tag: 0.0.1
     ingress:
-      host: staging.bases-microservice.172.21.0.2.xip.io
+      host: staging.devops-toolkit.172.21.0.2.xip.io
 
